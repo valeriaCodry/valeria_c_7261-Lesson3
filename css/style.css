@@ -1,0 +1,44 @@
+@import "null.css";
+h1{
+	color: darkorange;
+}
+h2.heading{
+	color: darkred;
+}
+.summary{
+	color: darkolivegreen;
+}
+span{
+	color: darkslateblue;
+}
+p.text{
+	color:darkturquoise
+}
+[class*="-item"] {
+	color: fuchsia;
+}
+h2#biography{
+	color: lawngreen;
+}
+#young-years{
+	color: lightskyblue;
+}
+table.gallery{
+	color: lightslategrey;
+}
+
+.laboratory.block > span.span-text{
+	color: maroon;
+}
+p.laboratory.block{
+	color: mediumspringgreen;
+}
+
+#personal-thins + div{
+color: navy;
+}
+
+#teslas-electrocar ~ div{
+	color: olive;
+}
+
